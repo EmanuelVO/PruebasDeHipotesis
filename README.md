@@ -14,7 +14,7 @@ Todas las variables son significativas por lo que decidimos no eliminar ninguna.
 
 4. Repite este análisis para cada uno de los 3 enfoques explicados en esta lección, interpretando de forma clara y verbal sus resultados.
 
-<img width="585" height="291" alt="image" src="https://github.com/user-attachments/assets/c546028b-7f69-4000-a836-459b6a9b21bb" />
+<img width="167" height="292" alt="image" src="https://github.com/user-attachments/assets/7c20dbb9-7b5f-4b87-a5f1-a52e3cc057fe" />
 
 Todos los valores p son menores al 5%, por lo que todas las variables son significativas. 
 
